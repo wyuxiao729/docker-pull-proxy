@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+alpine/dfimage registry.cn-hangzhou.aliyuncs.com/wyuxiao729/alpine/dfimage
